@@ -1,0 +1,4 @@
+#Sat Nov 04 14:59:20 EET 2017
+base.0=/Users/pseudo/Developer/fmc_hack/openxc-starter/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9
+renamed.0=classes.dex
+file.0=/Users/pseudo/Developer/fmc_hack/openxc-starter/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex

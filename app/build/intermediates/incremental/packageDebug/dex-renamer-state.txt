@@ -1,0 +1,7 @@
+#Sat Nov 04 14:59:20 EET 2017
+base.0=/Users/pseudo/Developer/fmc_hack/openxc-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_983ca55cb5bb23d0f7dbed270c7d1971f053f0c9
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/pseudo/Developer/fmc_hack/openxc-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_091e57464598ff839deb47e0f9b62b0c0eba19d9/classes.dex
+base.1=/Users/pseudo/Developer/fmc_hack/openxc-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_091e57464598ff839deb47e0f9b62b0c0eba19d9
+file.0=/Users/pseudo/Developer/fmc_hack/openxc-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_983ca55cb5bb23d0f7dbed270c7d1971f053f0c9/classes.dex

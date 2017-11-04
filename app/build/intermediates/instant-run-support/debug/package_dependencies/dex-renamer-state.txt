@@ -1,0 +1,19 @@
+#Sat Nov 04 14:20:40 EET 2017
+renamed.5=classes4.dex
+renamed.4=classes6.dex
+renamed.3=classes.dex
+renamed.2=classes2.dex
+renamed.1=classes3.dex
+renamed.0=classes5.dex
+base.5=/Users/pseudo/Developer/fmc_hack/openxc-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/guava-18.0_e11ced1631feb7c9800790c98fd765d3bed1b86c
+base.4=/Users/pseudo/Developer/fmc_hack/openxc-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_757e5e4e60041e95cd4174af666e7c43ef2621cb
+base.3=/Users/pseudo/Developer/fmc_hack/openxc-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bf7ee18be68fe8e609ec3752ef889cbf1d87ed88
+base.2=/Users/pseudo/Developer/fmc_hack/openxc-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-io-2.4_db9d9c7f5dc9abc44c05f9a56b43532b2a4af315
+base.1=/Users/pseudo/Developer/fmc_hack/openxc-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.3_f45a07da6e943206366c24c521a677b58c5ce9d4
+base.0=/Users/pseudo/Developer/fmc_hack/openxc-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/protobuf-java-2.6.1_2f20c8fd28fba7afc3be0742efbaab02b94e5c73
+file.5=/Users/pseudo/Developer/fmc_hack/openxc-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/guava-18.0_e11ced1631feb7c9800790c98fd765d3bed1b86c/classes.dex
+file.4=/Users/pseudo/Developer/fmc_hack/openxc-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_757e5e4e60041e95cd4174af666e7c43ef2621cb/classes.dex
+file.3=/Users/pseudo/Developer/fmc_hack/openxc-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bf7ee18be68fe8e609ec3752ef889cbf1d87ed88/classes.dex
+file.2=/Users/pseudo/Developer/fmc_hack/openxc-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-io-2.4_db9d9c7f5dc9abc44c05f9a56b43532b2a4af315/classes.dex
+file.1=/Users/pseudo/Developer/fmc_hack/openxc-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.3_f45a07da6e943206366c24c521a677b58c5ce9d4/classes.dex
+file.0=/Users/pseudo/Developer/fmc_hack/openxc-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/protobuf-java-2.6.1_2f20c8fd28fba7afc3be0742efbaab02b94e5c73/classes.dex

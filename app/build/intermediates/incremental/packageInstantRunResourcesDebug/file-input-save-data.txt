@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Sat Nov 04 14:59:15 EET 2017
+2.base=/Users/pseudo/Developer/fmc_hack/openxc-starter/app/build/intermediates/res/resources-debug.ap_
+5.file=/Users/pseudo/Developer/fmc_hack/openxc-starter/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=/Users/pseudo/Developer/fmc_hack/openxc-starter/app/build/intermediates/res/resources-debug.ap_
+2.set=ANDROID_RESOURCE
+4.base=/Users/pseudo/Developer/fmc_hack/openxc-starter/app/build/intermediates/res/resources-debug.ap_
+count=6
+0.file=/Users/pseudo/Developer/fmc_hack/openxc-starter/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_starter.xml
+5.base=/Users/pseudo/Developer/fmc_hack/openxc-starter/app/build/intermediates/res/resources-debug.ap_
+4.set=ANDROID_RESOURCE
+1.file=/Users/pseudo/Developer/fmc_hack/openxc-starter/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/ic_launcher.png
+1.set=ANDROID_RESOURCE
+2.file=/Users/pseudo/Developer/fmc_hack/openxc-starter/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v11/openxc_notification_icon_small_white.png
+0.base=/Users/pseudo/Developer/fmc_hack/openxc-starter/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/pseudo/Developer/fmc_hack/openxc-starter/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=/Users/pseudo/Developer/fmc_hack/openxc-starter/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/pseudo/Developer/fmc_hack/openxc-starter/app/build/intermediates/res/resources-debug.ap_/res/menu/starter.xml
+0.set=ANDROID_RESOURCE

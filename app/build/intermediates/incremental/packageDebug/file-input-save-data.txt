@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Sat Nov 04 14:59:20 EET 2017
+2.base=/Users/pseudo/Developer/fmc_hack/openxc-starter/app/build/intermediates/res/resources-debug.ap_
+5.file=/Users/pseudo/Developer/fmc_hack/openxc-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_091e57464598ff839deb47e0f9b62b0c0eba19d9/classes.dex
+5.set=DEX
+3.base=/Users/pseudo/Developer/fmc_hack/openxc-starter/app/build/intermediates/res/resources-debug.ap_
+6.file=/Users/pseudo/Developer/fmc_hack/openxc-starter/app/build/intermediates/res/resources-debug.ap_/res/menu/starter.xml
+2.set=ANDROID_RESOURCE
+4.base=/Users/pseudo/Developer/fmc_hack/openxc-starter/app/build/intermediates/res/resources-debug.ap_
+7.file=/Users/pseudo/Developer/fmc_hack/openxc-starter/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+7.set=ANDROID_RESOURCE
+count=8
+0.file=/Users/pseudo/Developer/fmc_hack/openxc-starter/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_starter.xml
+5.base=/Users/pseudo/Developer/fmc_hack/openxc-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_091e57464598ff839deb47e0f9b62b0c0eba19d9
+4.set=ANDROID_RESOURCE
+6.base=/Users/pseudo/Developer/fmc_hack/openxc-starter/app/build/intermediates/res/resources-debug.ap_
+1.file=/Users/pseudo/Developer/fmc_hack/openxc-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_983ca55cb5bb23d0f7dbed270c7d1971f053f0c9/classes.dex
+1.set=DEX
+7.base=/Users/pseudo/Developer/fmc_hack/openxc-starter/app/build/intermediates/res/resources-debug.ap_
+2.file=/Users/pseudo/Developer/fmc_hack/openxc-starter/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/ic_launcher.png
+6.set=ANDROID_RESOURCE
+0.base=/Users/pseudo/Developer/fmc_hack/openxc-starter/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/pseudo/Developer/fmc_hack/openxc-starter/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v11/openxc_notification_icon_small_white.png
+3.set=ANDROID_RESOURCE
+1.base=/Users/pseudo/Developer/fmc_hack/openxc-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_983ca55cb5bb23d0f7dbed270c7d1971f053f0c9
+4.file=/Users/pseudo/Developer/fmc_hack/openxc-starter/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+0.set=ANDROID_RESOURCE

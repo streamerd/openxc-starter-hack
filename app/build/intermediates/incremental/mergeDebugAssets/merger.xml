@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output"><source path="/Users/pseudo/.android/build-cache/e42b98a3e73868f4f9fcbdd3c1f0fa313dca406e/output/assets"/></dataSet><dataSet config="main"><source path="/Users/pseudo/Developer/fmc_hack/openxc-starter/app/src/main/assets"/><source path="/Users/pseudo/Developer/fmc_hack/openxc-starter/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/pseudo/Developer/fmc_hack/openxc-starter/app/src/debug/assets"/></dataSet></merger>
